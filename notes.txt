@@ -1,0 +1,47 @@
+PERSONAL WEBSITE   
+TODO:
+    Features
+        Database
+            Personal Files
+            Economic Data?
+            Machine Learning
+        Private Section
+    Decide on frameworks
+        Frontend
+            HTML, CSS, Vue, Typescript?
+        Backend
+            Python, PHP
+    Links to social media
+    Searchbar
+        Trie implementation?
+    How to host
+    Quote
+
+PAGES:
+    Photography
+        Structure for showing photos
+        Functionalities
+            Location info
+            Caption
+    Projects
+        Github
+        Papers/Research
+    Blog/Writings/Interests
+        About me 
+
+    Resume/CV
+        Just CV 
+        Downloadable
+        PDF Viewer in site
+    Contact/Messaging
+        Send to inbox
+
+STYLING:
+    Sidebar 
+        Social media
+        links to all pages 
+    Header
+    Footer
+        Quote
+    Color Theme
+    Profile Pic / Headshot
