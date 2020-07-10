@@ -1,5 +1,6 @@
 PERSONAL WEBSITE   
 TODO:
+    Add resume, CV 
     Features
         Database
             Personal Files
@@ -16,6 +17,9 @@ TODO:
         Trie implementation?
     How to host
     Quote
+
+IDEAS:
+    Analysis of research funding, effects on local economy
 
 PAGES:
     Photography
